@@ -1,0 +1,29 @@
+body{
+	background: #000000;
+	font-family: 'PT Sans', sans-serif
+}
+.clr{
+	background: #0c084d;
+	color: white;
+	font-family: 'PT Sans', sans-serif;
+}
+
+.clrnobg{
+	color: white;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 4rem;
+}
+.name{
+	color: cyan;
+	font-size: 2rem;
+}
+.des{
+	color: white;
+	font-size: 1.25rem;
+	padding-right: 5;
+	padding-left: 5;
+	margin-right: 5;
+	margin-left: 5;
+	margin-top: 5; 
+	justify-content: center;
+}
